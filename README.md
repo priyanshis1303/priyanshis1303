@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3 align = "center">Hi there! My name is Priyanshi Singh and I'm
+currently a student pursuing a degree in Information Technology at
+Mumbai University.</h3>
+<br>
+# 💫 About Me:
+Hello my name is Priyanshi Singh. I'm currently a Second-year Information Technology student with an interest in exploring technologies . I have always been interested in technology.
 
-<!--
-**priyanshis1303/priyanshis1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have always been a capable learner . I have ability to work in a team .I have started learning UI/UX 
+In my free time I like to do performing arts like singing and Dancing
+I am excited to see myself grow in the field of Information Technology .
+<br>
+<br>
+# 📊 GitHub Stats:
+![](https://github-readmestats.vercel.app/api?username=priyanshis1303&theme=dark&hide_border
+=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streakstats.herokuapp.com/?user=priyanshis1303&theme=dark&hide_border=fal
+se)<br/>
+![](https://github-readme-stats.vercel.app/api/toplangs/?username=priyanshis1303&theme=dark&hide_border=false&inclu
+de_all_commits=true&count_private=true&layout=compact)
