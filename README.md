@@ -3,6 +3,7 @@ currently a student pursuing a degree in Information Technology at
 Mumbai University.</h3>
 <br>
 # 💫 About Me:
+
 Hello my name is Priyanshi Singh. I'm currently a Second-year Information Technology student with an interest in exploring technologies . I have always been interested in technology.
 
 I have always been a capable learner . I have ability to work in a team .I have started learning UI/UX 
