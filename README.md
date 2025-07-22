@@ -1,18 +1,42 @@
-<h3 align = "center">Hi there! My name is Priyanshi Singh and I'm
-currently a student pursuing a degree in Information Technology at
-Mumbai University.</h3>
-<br>
-💫 About Me:
+<!-- README.md -->
 
-Hello my name is Priyanshi Singh. I'm currently a Fourth - year Information Technology student with an interest in exploring technologies .
+<h2>🦾 About Me:</h2>
 
-I am a capable and enthusiastic learner with a strong ability to collaborate and work effectively in a team. Currently, I am doing an internship in the field of Information Technology, where I continue to develop my skills and grow professionally. I’ve been focusing on web development and Java, and I’m excited about building real-world projects that make an impact.
+I've always been fascinated by technology and how it can be used to solve real-world problems.  
+Throughout my academic journey, I've developed a foundation in programming languages like  **Java**, and **C**, along with hands-on experience in **Web Development** and **Machine Learning**.  
+I’ve also worked with **Keras** to build and train machine learning models, and I enjoy exploring how AI can be applied to practical challenges.  
+Currently doing an internship and excited to explore new roles in the field of **Information Technology**.  
+I've also had the opportunity to work on several group projects, which has allowed me to hone my collaboration and communication skills.  
+Outside tech, I enjoy **performing arts** like **singing** and **dancing** .
 
-Outside of work, I enjoy performing arts such as singing and dancing, which help me stay creative and expressive. I’m eager to take on a new role where I can contribute, learn, and continue to grow in the IT industry.
+---
+
+<h2>Socials:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-singh-36baa9248/)
+
+---
+
+<h2>💻 Tech Stack:</h2>
 
 
-<br>
-<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+
+
+---
+
 
 📊 GitHub Stats: <br/>
 ![](https://github-readme-stats.vercel.app/api?username=priyanshis1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
