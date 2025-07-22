@@ -2,13 +2,15 @@
 currently a student pursuing a degree in Information Technology at
 Mumbai University.</h3>
 <br>
-# 💫 About Me:
+💫 About Me:
 
-Hello my name is Priyanshi Singh. I'm currently a Second-year Information Technology student with an interest in exploring technologies . I have always been interested in technology.
+Hello my name is Priyanshi Singh. I'm currently a Fourth - year Information Technology student with an interest in exploring technologies .
 
-I have always been a capable learner . I have ability to work in a team .I have started learning UI/UX 
-In my free time I like to do performing arts like singing and Dancing
-I am excited to see myself grow in the field of Information Technology .
+I am a capable and enthusiastic learner with a strong ability to collaborate and work effectively in a team. Currently, I am doing an internship in the field of Information Technology, where I continue to develop my skills and grow professionally. I’ve been focusing on web development and Java, and I’m excited about building real-world projects that make an impact.
+
+Outside of work, I enjoy performing arts such as singing and dancing, which help me stay creative and expressive. I’m eager to take on a new role where I can contribute, learn, and continue to grow in the IT industry.
+
+
 <br>
 <br>
 
