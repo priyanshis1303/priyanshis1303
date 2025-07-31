@@ -17,7 +17,9 @@ Outside of tech, I like singing, dancing, and staying active with sports and fit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-singh-36baa9248/)
 
+
 ---
+
 
 <h2>💻 Tech Stack:</h2>
 
@@ -39,8 +41,21 @@ Outside of tech, I like singing, dancing, and staying active with sports and fit
 
 ---
 
+### 💻 Most Used Language
 
-📊 GitHub Stats: <br/>
-![](https://github-readme-stats.vercel.app/api?username=priyanshis1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshis1303&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshis1303&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshis1303&layout=compact&theme=radical" />
+
+## 📊 GitHub Stats
+
+<p >
+  <!-- GitHub Stats Card (No stars/issues/contribs) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=priyanshis1303&theme=radical&hide=stars,issues,contribs&hide_border=false&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    height="180px"
+  />
+  
+  <!-- GitHub Streak Stats -->
+
+</p>
+
